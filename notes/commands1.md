@@ -23,4 +23,3 @@ E1: "help clear" will tell you what the
 command "clear" does. "help move" will tell
 you what the command "move" does.
 
-Q: How are commands written?

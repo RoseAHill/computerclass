@@ -13,7 +13,7 @@
     Pictures/
     ├─ BabySeal.png
     ├─ BunnyTheCat.png
-    ├─ Sparky.png
+    ├─ Sparkyto.png
 
 ## Setting up your folders
 

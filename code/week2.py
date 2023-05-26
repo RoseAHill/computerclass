@@ -30,7 +30,7 @@ while run:
     choice = input("> ")
     
     if choice == "1":
-      print("")
+      print("Narrator => You vanquish the slime! You find +2 coins.")
     elif choice == "2":
       print("Frank => Lets get out of here, hero!")
     
